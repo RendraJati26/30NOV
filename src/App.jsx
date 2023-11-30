@@ -100,7 +100,7 @@ function App() {
               }}
               className="text-3xl text-center"
             >
-              Selamat Ulang Tahun Santi
+              Selamat Ulang Tahun MBAK SEKAR ARUM KUSUMA JATI
             </motion.h1>
             <motion.div
               initial={{ opacity: 0, y: -100 }}
@@ -150,7 +150,7 @@ function App() {
               }}
               className="text-3xl mb-5 text-center"
             >
-              Ucapan untuk Calon Dokter Hebat
+              Ucapan untuk Kakak yang Hebat
             </motion.h2>
 
             <motion.p
@@ -167,9 +167,16 @@ function App() {
               }}
               className="text-center"
             >
-              Kak Santi, selamat ulang tahun ya! Semangat terus belajarnya di
-              Fakultas Kedokteran. Aku yakin suatu saat nanti kamu pasti akan
-              menjadi dokter yang hebat dan membantu banyak orang.
+              Mbak Awum, selamat ulang tahun ke-24! 
+              Hari ini adalah hari bahagiamu
+              Bertambah usia, bertambah kedewasaanmu
+              Kuucap syukur kau ada di sisiku
+              Kakak perempuanku tersayang
+              
+              Kuperhatikan langkahmu tiada lelah
+              Bekerja, berkarya penuh derap semangat
+              Mewujudkan mimpi demi kebahagiaan kelak
+              Itulah jejakmu yang selalu membanggakan
             </motion.p>
 
             <motion.div
@@ -225,7 +232,7 @@ function App() {
               }}
               className="text-3xl mb-5 text-center"
             >
-              Aku selalu berdoa yang terbaik buat kamu
+              Doa Papah Mamah Slalu Menyertai langkahmu
             </motion.h2>
 
             <motion.p
@@ -242,8 +249,17 @@ function App() {
               }}
               className="text-center"
             >
-              Jangan pernah menyerah mengejar mimpimu. Tetap semangat dan
-              optimis. Kamu pasti bisa!
+              
+              Meski kini kau masih sendiri
+              Pasti kelak kan tiba giliranmu bersanding
+              Bersama insan pilihan yang setia mendampingi
+              Hingga maut memisahkan di ujung nanti
+              
+              Selamat ulang tahun, Kakak sayang
+              Panjang umur dan bahagialah selalu
+              Putri sulung kesayangan kami semua
+              Dikasihi seluruh jiwa ragaku
+
             </motion.p>
 
             <motion.div
@@ -421,7 +437,7 @@ function App() {
               }}
               className="text-center mt-5"
             >
-              HaBeDe... JanganLupa PUnya...
+              HaBeDe... JanganLupa Makan Makannya...
             </motion.p>
           </motion.div>
         )}
