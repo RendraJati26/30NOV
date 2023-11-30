@@ -5,6 +5,9 @@ import bg from "/bg.jpg";
 import audio from "/audio.mp3";
 import gift from "/gift.gif";
 
+import gambar1 from "/Gambar1.jpeg"
+import gambar2 from "/Gambar2.jpeg"
+
 function App() {
   console.log(bg);
   const [bagian, setBagian] = useState(0);
@@ -130,9 +133,8 @@ function App() {
               y: 1,
               transition: { type: "spring", duration: 1, stiffness: 120 },
             }}
-            className={`bg-[rgba(0,0,0,0.7)] rounded-xl p-10 w-[90%] h-[90%] md:w-[50%] flex flex-col justify-center items-center ${
-              bagian == 2 ? "inline" : "hidden"
-            }`}
+            className={`bg-[rgba(0,0,0,0.7)] rounded-xl p-10 w-[90%] h-[90%] md:w-[50%] flex flex-col justify-center items-center ${bagian == 2 ? "inline" : "hidden"
+              }`}
           >
             <motion.h2
               initial={{ opacity: 0, y: -100 }}
@@ -374,13 +376,13 @@ function App() {
               className="flex w-full gap-2 h-[40%] lg:h-[60%] relative lg:px-10"
             >
               <img
-                src={"/Gambar1.jpeg"}
+                src={gambar1}
                 className="rounded-xl w-[45%]"
                 alt=""
               />
-              
+
               <img
-                src={"/Gambar2.jpeg"}
+                src={gambar2}
                 className="rounded-xl w-[55%]"
                 alt=""
               />
