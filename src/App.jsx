@@ -100,7 +100,8 @@ function App() {
               }}
               className="text-3xl text-center"
             >
-              Selamat Ulang Tahun MBAK SEKAR ARUM KUSUMA JATI
+              Selamat Ulang Tahun 
+              MBAK SEKAR ARUM KUSUMA JATI
             </motion.h1>
             <motion.div
               initial={{ opacity: 0, y: -100 }}
