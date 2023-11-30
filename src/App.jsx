@@ -5,8 +5,8 @@ import bg from "/bg.jpg";
 import audio from "/audio.mp3";
 import gift from "/gift.gif";
 
-import gambar1 from "/Gambar1.jpeg"
-import gambar2 from "/Gambar2.jpeg"
+import gambar1 from "/Gambar1.png"
+import gambar2 from "/Gambar2.png"
 
 function App() {
   console.log(bg);
